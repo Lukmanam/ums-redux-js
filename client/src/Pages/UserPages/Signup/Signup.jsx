@@ -56,7 +56,7 @@ const Signup = () => {
 
   return (
     <div className="w-full h-screen flex justify-center items-center bg-gradient-to-br from-blue-500 to-white-500">
-      <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-lg shadow-lg p-8">
+      <div className="bg-white bg-opacity-60 backdrop-blur-lg rounded-lg shadow-lg p-8">
         <Card color="transparent" shadow={false} className="w-96">
           <Typography variant="h4" color="blue-gray" className="text-left mt-4">
             Sign Up
