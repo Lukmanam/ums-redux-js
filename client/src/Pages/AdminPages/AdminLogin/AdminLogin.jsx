@@ -50,7 +50,7 @@ export default function AdminLogin() {
 
   return (
     <div className="w-full min-h-screen flex justify-center items-center bg-gradient-to-br from-green-100 to-red-500 backdrop-blur-md">
-      <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-lg shadow-lg p-8">
+      <div className="bg-white bg-opacity-40 backdrop-blur-lg rounded-lg shadow-lg p-8">
         <h2 className="text-3xl font-semibold text-center text-gray-800 mb-6">
           Admin Sign In
         </h2>
